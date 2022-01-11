@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prarwas
+- 👋 Hi, I’m Prarthana! @prarwas
 - 👀 I’m interested in learning more programming langugaes and applying them to independent projects.
 - 🌱 I’m currently learning how to build websites with Javascript.
 - 📫 How to reach me: prarthana.biswas@stonybrook.edu
